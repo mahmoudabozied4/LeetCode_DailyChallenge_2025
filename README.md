@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
