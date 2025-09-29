@@ -1,5 +1,4 @@
 # LeetCode_DailyChallenge_2025
-Ã°ÂÂ§Â  LeetCode Daily Challenges Ã¢ÂÂ 2025 This repository contains my solutions to the LeetCode Daily Challenges throughout 2025.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
