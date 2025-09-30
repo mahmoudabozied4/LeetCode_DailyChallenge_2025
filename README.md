@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 ## String
 |  |
