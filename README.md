@@ -14,6 +14,7 @@
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,5 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
