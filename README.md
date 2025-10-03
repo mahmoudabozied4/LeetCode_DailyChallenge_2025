@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
@@ -51,4 +52,16 @@
 | ------- |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
