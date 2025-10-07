@@ -23,12 +23,14 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0118-pascals-triangle) |
@@ -108,4 +110,8 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
