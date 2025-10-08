@@ -46,6 +46,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
 |  |
 | ------- |
