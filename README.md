@@ -46,6 +46,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -97,6 +98,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
+| [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
