@@ -28,6 +28,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
