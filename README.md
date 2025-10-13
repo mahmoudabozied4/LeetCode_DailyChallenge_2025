@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
@@ -29,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
@@ -81,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
