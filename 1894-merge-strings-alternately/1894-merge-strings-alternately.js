@@ -4,25 +4,24 @@
  * @return {string}
  */
 var mergeAlternately = function (word1, word2) {
-    let ans ="";
-    let lenWord1 = word1.length, lenWord2 = word2.length;
-    let pointerWord1 = 0, pointerWord2 = 0;
-    while (lenWord1 > 0 && lenWord2 > 0) {
-        ans +=(word1[pointerWord1] + word2[pointerWord2]);
-        lenWord1--
-        lenWord2--
-        pointerWord1++
-        pointerWord2++
+    let ans = '';
+    let word1Idx = 0;
+    let word2Idx = 0;
+
+    while (word1Idx < word1.length && word2Idx < word2.length) {
+        ans += word1[word1Idx++];
+        ans += word2[word2Idx++];
     }
 
-    while (lenWord1>0) {
-        lenWord1--;
-        ans += (word1[pointerWord1++]);
+    if (word1Idx < word1.length) {
+        ans += word1.substring(word1Idx);
     }
 
-    while (lenWord2>0) {
-        lenWord2--;
-        ans += (word2[pointerWord2++]);
+    if (word2Idx < word2.length) {
+        ans += word2.substring(word2Idx);
     }
+
     return ans;
 };
+
+// console.log(mergeAlternately("12" , "456"))
