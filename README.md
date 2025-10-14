@@ -27,6 +27,7 @@
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
+| [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0334-increasing-triplet-subsequence) |
+| [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
