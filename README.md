@@ -137,6 +137,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
+| [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
+| [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,8 +242,13 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
