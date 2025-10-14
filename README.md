@@ -44,6 +44,7 @@
 | [0011-container-with-most-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
