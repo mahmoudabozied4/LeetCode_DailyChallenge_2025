@@ -71,6 +71,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
