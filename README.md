@@ -19,6 +19,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
@@ -188,4 +190,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
