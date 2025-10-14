@@ -24,6 +24,7 @@
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -184,6 +185,7 @@
 | [0137-single-number-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -214,4 +216,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
