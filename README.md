@@ -44,6 +44,7 @@
 | [0058-length-of-last-word](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
