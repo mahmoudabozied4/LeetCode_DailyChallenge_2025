@@ -89,6 +89,7 @@
 | [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
