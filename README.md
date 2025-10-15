@@ -51,6 +51,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
+| [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
