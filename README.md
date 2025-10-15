@@ -15,6 +15,7 @@
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
@@ -51,6 +52,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
@@ -90,6 +92,7 @@
 | [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -156,6 +159,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 ## Matrix
 |  |
 | ------- |
@@ -272,4 +276,12 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
