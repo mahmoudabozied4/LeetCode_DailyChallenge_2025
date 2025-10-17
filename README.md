@@ -57,6 +57,7 @@
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
 | [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -228,6 +230,7 @@
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -236,6 +239,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
