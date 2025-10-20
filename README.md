@@ -33,6 +33,7 @@
 | [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
@@ -125,6 +126,7 @@
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -288,6 +290,7 @@
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,4 +333,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
