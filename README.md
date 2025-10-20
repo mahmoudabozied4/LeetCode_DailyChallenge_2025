@@ -9,6 +9,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
@@ -243,6 +246,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -324,6 +328,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
