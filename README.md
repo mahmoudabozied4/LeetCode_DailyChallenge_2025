@@ -76,6 +76,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
@@ -166,6 +167,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
@@ -183,6 +185,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
@@ -200,6 +203,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
@@ -220,6 +224,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
