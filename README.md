@@ -42,6 +42,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
@@ -63,6 +64,7 @@
 | [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2727-number-of-senior-citizens](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2727-number-of-senior-citizens) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Breadth-First Search
 |  |
@@ -274,6 +277,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
@@ -303,6 +307,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
