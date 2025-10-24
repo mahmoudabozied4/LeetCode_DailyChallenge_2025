@@ -28,6 +28,7 @@
 | [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
@@ -369,4 +370,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
