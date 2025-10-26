@@ -18,6 +18,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2169-simple-bank-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -41,6 +42,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3336-water-bottles-ii) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -313,6 +316,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -330,6 +334,7 @@
 |  |
 | ------- |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Graph
 |  |
 | ------- |
