@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
@@ -403,6 +404,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
