@@ -160,6 +160,7 @@
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
@@ -393,4 +394,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0319-bulb-switcher) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
