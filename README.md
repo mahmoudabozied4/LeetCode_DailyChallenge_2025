@@ -117,6 +117,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1552-build-an-array-with-stack-operations) |
 | [1603-running-sum-of-1d-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1791-richest-customer-wealth](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -149,6 +150,7 @@
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -233,6 +235,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
@@ -313,6 +316,7 @@
 | [0071-simplify-path](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1552-build-an-array-with-stack-operations) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Sliding Window
@@ -398,4 +402,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
