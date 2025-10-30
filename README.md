@@ -9,6 +9,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@
 | [0011-container-with-most-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
@@ -401,6 +403,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0908-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
