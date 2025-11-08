@@ -168,6 +168,7 @@
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -327,6 +328,7 @@
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 |  |
 | ------- |
