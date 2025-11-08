@@ -15,6 +15,7 @@
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
@@ -68,6 +69,7 @@
 | [0058-length-of-last-word](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
@@ -199,6 +201,7 @@
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -328,6 +331,7 @@
 | [0231-power-of-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3676-smallest-number-with-all-set-bits) |
