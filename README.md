@@ -273,6 +273,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0386-lexicographical-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
