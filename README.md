@@ -73,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -114,6 +115,7 @@
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
@@ -168,6 +170,7 @@
 | [0118-pascals-triangle](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
