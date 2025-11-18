@@ -124,6 +124,7 @@
 | [0485-max-consecutive-ones](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
