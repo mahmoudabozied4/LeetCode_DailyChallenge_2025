@@ -19,6 +19,7 @@
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -86,6 +87,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1894-merge-strings-alternately](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2429-design-a-food-rating-system) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1603-running-sum-of-1d-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -363,6 +366,7 @@
 | [0342-power-of-four](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
