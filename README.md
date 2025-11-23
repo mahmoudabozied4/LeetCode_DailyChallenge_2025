@@ -137,6 +137,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1168-duplicate-zeros) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -190,6 +191,7 @@
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -227,6 +229,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0759-set-intersection-size-at-least-two) |
 | [1019-squares-of-a-sorted-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1019-squares-of-a-sorted-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -291,6 +294,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0670-maximum-swap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0759-set-intersection-size-at-least-two) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1700-minimum-time-to-make-rope-colorful) |
