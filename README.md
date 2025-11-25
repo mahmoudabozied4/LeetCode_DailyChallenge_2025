@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0952-word-subsets) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1612-avoid-flood-in-the-city) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -49,6 +50,7 @@
 | [0679-24-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1013-fibonacci-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1636-number-of-substrings-with-only-1s) |
