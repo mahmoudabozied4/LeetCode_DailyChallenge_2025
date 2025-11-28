@@ -322,6 +322,7 @@
 | [0820-find-eventual-safe-states](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0854-making-a-large-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -508,4 +509,8 @@
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
