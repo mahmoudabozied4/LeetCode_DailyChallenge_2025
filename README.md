@@ -35,6 +35,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -522,4 +525,8 @@
 |  |
 | ------- |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3058-maximum-number-of-k-divisible-components) |
+## Geometry
+|  |
+| ------- |
+| [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
