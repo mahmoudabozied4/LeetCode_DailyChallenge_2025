@@ -70,6 +70,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -191,6 +192,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -381,6 +383,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |
