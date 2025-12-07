@@ -38,6 +38,7 @@
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4087-maximum-substrings-with-distinct-start) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
