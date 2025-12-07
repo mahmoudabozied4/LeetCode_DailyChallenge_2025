@@ -201,6 +201,7 @@
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Simulation
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Union Find
 |  |
 | ------- |
@@ -504,6 +507,7 @@
 | [0053-maximum-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0954-maximum-sum-circular-subarray) |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Queue
 |  |
 | ------- |
@@ -545,4 +549,8 @@
 | ------- |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+## Quickselect
+|  |
+| ------- |
+| [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
