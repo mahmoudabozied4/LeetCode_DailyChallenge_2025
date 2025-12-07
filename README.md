@@ -59,6 +59,7 @@
 | [1064-smallest-integer-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1817-calculate-money-in-leetcode-bank) |
