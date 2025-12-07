@@ -78,6 +78,7 @@
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
@@ -205,6 +206,7 @@
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
@@ -365,6 +367,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Union Find
 |  |
@@ -558,4 +561,8 @@
 |  |
 | ------- |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
+## Segment Tree
+|  |
+| ------- |
+| [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 <!---LeetCode Topics End-->
