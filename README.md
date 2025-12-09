@@ -35,6 +35,7 @@
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
+| [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -205,6 +206,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
+| [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
@@ -407,6 +409,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
