@@ -573,4 +573,8 @@
 |  |
 | ------- |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
