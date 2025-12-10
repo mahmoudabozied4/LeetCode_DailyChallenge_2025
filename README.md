@@ -78,6 +78,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
@@ -206,6 +207,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3863-power-grid-maintenance) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -430,6 +432,7 @@
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Bitmask
 |  |
 | ------- |
@@ -540,6 +543,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0319-bulb-switcher) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Linked List
 |  |
 | ------- |
