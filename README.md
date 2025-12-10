@@ -576,5 +576,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
