@@ -39,6 +39,7 @@
 | [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
@@ -117,6 +118,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
@@ -215,6 +217,7 @@
 | [3885-count-special-triplets](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
 | [4022-minimum-operations-to-equalize-subarrays](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4022-minimum-operations-to-equalize-subarrays) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
@@ -279,6 +282,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3721-count-mentions-per-user](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3819-count-covered-buildings) |
+| [3934-coupon-code-validator](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/3934-coupon-code-validator) |
 | [4141-count-elements-with-at-least-k-greater-values](https://github.com/mahmoudabozied4/LeetCode_DailyChallenge_2025/tree/master/4141-count-elements-with-at-least-k-greater-values) |
 ## Simulation
 |  |
